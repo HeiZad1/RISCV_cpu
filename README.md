@@ -1,7 +1,7 @@
 # 项目名称
 ## 五级流水线的 13 指令 RISC-V CPU
 # 项目简介
-## 这是一个用SystemVerilog编写的MIPS CPU的实现。这个项目处于非常早期的阶段，目前只实现了MIPS CPU最基本的功能。
+## 这是一个用SystemVerilog编写的MIPS CPU的实现。这个项目处于比较早期的阶段，目前只实现了riscv CPU基本的功能。
 
 ### 32位MIPS处理器
 ### 用SystemVerilog实现
